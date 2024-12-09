@@ -1,6 +1,6 @@
 {
   "name": "sqlize-query",
-  "version": "1.5.3",
+  "version": "1.5.4",
   "description": "Converts sequelize queries from query params to sequelize query object ",
   "main": "sqlize.js",
   "scripts": {
