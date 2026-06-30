@@ -1,12 +1,15 @@
 {
   "name": "sqlize-query",
-  "version": "1.5.4",
+  "version": "1.6.0",
   "description": "Converts sequelize queries from query params to sequelize query object ",
   "main": "sqlize.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": "sudiq/sqlize-query",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sudiq/sqlize-query.git"
+  },
   "keywords": [
     "sequelize",
     "sql",
